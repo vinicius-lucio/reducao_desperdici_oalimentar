@@ -1,1 +1,1 @@
-# reducao_desperdici_oalimentar
+# reducao_desperdicio_alimentar
